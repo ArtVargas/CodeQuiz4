@@ -1,11 +1,11 @@
 # CodeQuiz4
 
 # Coding Web Application Quiz
-The Coding Application Quiz was created in order to demonstrate all uses of HTML, CSS, and JavaScript in order to produce a fully functional quiz with a timer. It was implemented with hours of work and reconstruction. This proved to be the most difficult and challenging project. Having to create everything  from scratch and making sure the layout met the criteria with the input of JavaScript couldn’t have proved to be more difficult due to trial and error of creating this quiz. There were so many stressful periods of inputting code that didn’t seem to do what was needed but with adjustments and changes the layout of the quiz was able to be created. There was also too much focus being spent on perfecting the html and css. This project stands on its own due to being a first time creation being able to implement a timer that’s fully functional and meets all the necessary qualifications in order to demonstrate complete and total functionality. 
+The Coding Application Quiz was created in order to demonstrate all uses of HTML, CSS, and JavaScript in order to produce a fully functional quiz with a timer. It was implemented with hours of work and reconstruction. This proved to be the most difficult and challenging project. Having to create everything  from scratch and making sure the layout met the criteria with the input of JavaScript couldn’t have proved to be more difficult due to trial and error of creating this quiz. This defintely proved to be the most difficult project by far. There were so many stressful periods of inputting code that didn’t seem to do what was needed but with adjustments and changes the layout of the quiz was able to be created. There was also too much focus being spent on perfecting the html and css as opposed to the JavaScript section. Biggest lesson to learn for next time. Much time was not spent enough but efforts have proved to try and implement a timer and meets all the necessary qualifications in order to demonstrate complete and total functionality. 
 
 # Live Site Application
 
-[Link to Deployed Application]()
+[Link to Deployed Application](https://artvargas.github.io/CodeQuiz4/)
 
 
 # Resource URL
