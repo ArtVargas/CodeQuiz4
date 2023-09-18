@@ -15,6 +15,7 @@ body{
 }
 
 .info_box.activeinfo{
+    z-index: 5;
     opacity: 1;
     pointer-events: none;
     transform: translate(-50% -50%) scale(1);
